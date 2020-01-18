@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    Você esta acessando Laravel.Uni5.Net - Projeto Inicial
+                    You are logged in!
                 </div>
             </div>
         </div>
