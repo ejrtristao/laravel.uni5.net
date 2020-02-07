@@ -1,0 +1,18 @@
+LCDPR
+-pipe
+-crlf
+-
+
+
+
+Cadastro de Propriedade rural/unidade de negocio
+
+
+-CAEPF  14 - numeros
+CAD_ITR -> CAFIR com dv
+cod_mun
+Tipo Exploração
+Participação - OK
+
+
+
