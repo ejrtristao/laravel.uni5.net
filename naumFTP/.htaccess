@@ -1,5 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^laravel.uni5.net$ [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.laravel.uni5.net$
-RewriteCond %{REQUEST_URI} !laravel/laravel/
-RewriteRule (.*) /laravel/laravel/$1 [L]
